@@ -20,7 +20,7 @@ As a user, I should be able to ...
 - Pay Steph $$$ through Patreon or other subscriptions.
 - Find and buy band merch.
 - Find and buy Strange World merch & content.
-- Read Stephanie Strange stories, poetry, and other content. 
+- Read Stephanie Strange stories, comic books, poetry, and other content. 
 - View any press releases, interviews, raves.
 - View collaborators and access links to their websites.
 - Connect to all the social media accounts.
