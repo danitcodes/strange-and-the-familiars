@@ -32,6 +32,13 @@ As a user, I should be able to ...
 - Create community.
 - Feel like my authentic, quirky self is enough, and is seen. 
 
+### References
+
+- ** Developing a Wordpress theme from scratch [here](https://www.taniarascia.com/developing-a-wordpress-theme-from-scratch/#installing-wordpress)
+- WordPress and React [here](https://www.freecodecamp.org/news/wordpress-react-how-to-create-a-modern-web-app-using-wordpress-ef6cc6be0cd0/#:~:text=If%20you%20want%20to%20create,CMS%20like%20WordPress%2C%20you%20can!)
+- WordPress Coding Standards [here](https://developer.wordpress.org/coding-standards/)
+- React inside WordPress [here](https://dev.to/bobman38/how-to-use-react-inside-a-wordpress-application-49i)
+
 ### Legal
 
 [MIT](https://opensource.org/licenses/MIT). 2021, Danielle Thompson.
