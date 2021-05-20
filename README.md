@@ -43,9 +43,10 @@ As a user, I should be able to ...
 ### References
 
 - ** Developing a Wordpress theme from scratch [here](https://www.taniarascia.com/developing-a-wordpress-theme-from-scratch/#installing-wordpress)
-- WordPress and React [here](https://www.freecodecamp.org/news/wordpress-react-how-to-create-a-modern-web-app-using-wordpress-ef6cc6be0cd0/#:~:text=If%20you%20want%20to%20create,CMS%20like%20WordPress%2C%20you%20can!)
+- ** Reusable html components [here](https://www.freecodecamp.org/news/reusable-html-components-how-to-reuse-a-header-and-footer-on-a-website/)
 - WordPress Coding Standards [here](https://developer.wordpress.org/coding-standards/)
-- React inside WordPress [here](https://dev.to/bobman38/how-to-use-react-inside-a-wordpress-application-49i)
+- ~~WordPress and React [here](https://www.freecodecamp.org/news/wordpress-react-how-to-create-a-modern-web-app-using-wordpress-ef6cc6be0cd0/#:~:text=If%20you%20want%20to%20create,CMS%20like%20WordPress%2C%20you%20can!)~~
+- ~~React inside WordPress [here](https://dev.to/bobman38/how-to-use-react-inside-a-wordpress-application-49i)~~
 
 ### Legal
 
