@@ -9,16 +9,61 @@
   <link href="https://fonts.googleapis.com/css2?family=IM+Fell+English:ital@0;1&display=swap" rel="stylesheet">
   <link rel="stylesheet" type="text/css" href="css/styles.css" media="all">
   <script href="js/scripts.js"></script>
-
 </head>
+
+<!-- Body of home page begins-->
+
 <body>
   <div class="hero-image">
     <div class="hero-text">
       <h1 class="header">
         Strange <br/>and the <br/>Familiars
       </h1>
+      <!--After 700px break, h1 needs to reduce font size and go to bottom so Stephanie's face does not get covered in mobile versions-->
       <!-- add social media icons bar too -->
     </div>
   </div>
+
+  <!-- Second segment of page with cards begins-->
+
+  <div class="container">
+    <div class="card-columns">
+    <!-- <div class="card-deck"> -->
+      <!--* Keep experimenting with card deck
+        * Fix card responsivity
+        -- both will likely need some column properties and wrapping and a breakpoint
+      -->
+
+      <div class="card">
+        <div class="card-body">
+            <!--* Fix image responsivity & keep images centered on size reduction -->
+            <img class="card-img-top" src="assets/images/LiveShow.jpg" alt="Stephanie Strange and her Familiars, live on stage">
+            <h2 class="card-title">Upcoming Event: <br/> Strum Guitars</h2>
+            <p class="card-text">We're back, baby!</p>
+            <a href="/events" class="btn btn-dark" style="letter-spacing: 1px;">Come Play</a>
+          </div>
+        </div>
+
+        <div class="card">
+          <div class="card-body">
+            <img class="card-img-top" src="assets/images/PrettyDeadlyAlbumCover.jpg" alt="Pretty deadly album cover of black cat looking straight at camera with mouth open standing on foliage">
+            <h2 class="card-title">New Album Release: <br/> Pretty Deadly</h2>
+            <p class="card-text">Coming xx/xx/2021!</p>
+            <a href="/events" class="btn btn-dark" style="letter-spacing: 1px;">Buy Now</a>
+          </div>
+        </div>
+
+        <div class="card">
+          <div class="card-body">
+            <img class="card-img-top" src="assets/images/NightmareComicCover.jpg" alt="Comic book cover of tiny black cat squaring up to fight a bug titled From the Chronicles of Nina Nightmare: Ghost Bugs">
+            <h2 class="card-title"><i>Strange World</i> <br/> Happenings</h2>
+            <p class="card-text">New Comic - coming xx/2021!</p>
+            <a href="/events" class="btn btn-dark" style="letter-spacing: 1px;">Pre-Order</a>
+          </div>
+        </div>
+
+    </div>
+  </div>
+
 </body>
 </html>
