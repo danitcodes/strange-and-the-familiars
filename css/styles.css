@@ -8,8 +8,10 @@
 body, html {
   height: 100%;
   background-color: black;
-  color: white;
+  color: #FFFEF2;
 }
+
+/* Landing page styles */
 
 .header {
   letter-spacing: 5px;
@@ -29,4 +31,63 @@ body, html {
 .hero-text {
   text-align: right;
   transform: translate(-10%, 10%);
+}
+
+/* Landing page cards */
+
+.card {
+  margin-top: 75px;
+  margin-bottom: 100px;
+  padding-top: 15px;
+  padding-bottom: 20px;
+  background-color: #FFFEF2;
+  box-shadow: 3px 3px 30px 5px gray;
+}
+
+.card-title {
+  padding-top: 25px;
+  text-shadow: 5px 5px 5px #ff0000;
+}
+
+.card-body {
+  text-align: center;
+  color: black;
+  text-shadow: 1px 1px 0px white;
+}
+
+.card-img-top {
+  height: 200px;
+  width: auto;
+}
+
+.card-btn-style {
+  letter-spacing: 3px;
+  width: 50px;
+}
+
+@media (min-width: 20em) {
+  .card-columns {
+      -webkit-column-count: 1;
+      -moz-column-count: 1;
+      column-count: 1;
+      column-gap: 1.25rem;
+      orphans: 1;
+      widows: 1;
+  }
+}
+
+@media (min-width: 34em) {
+  .card-columns {
+      -webkit-column-count: 2;
+      -moz-column-count: 2;
+      column-count: 2;
+  }
+}
+
+@media (min-width: 48em) {
+  .card-columns {
+      -webkit-column-count: 3;
+      -moz-column-count: 3;
+      column-count: 3;
+  }
 }
