@@ -32,6 +32,14 @@ As a user, I should be able to ...
 - Create community.
 - Feel like my authentic, quirky self is enough, and is seen.
 
+### Color Scheme
+
+- Ivory: #FFFEF2
+
+### Font
+
+- IM Fell English
+
 ### References
 
 - ** Developing a Wordpress theme from scratch [here](https://www.taniarascia.com/developing-a-wordpress-theme-from-scratch/#installing-wordpress)
