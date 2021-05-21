@@ -41,17 +41,23 @@ body, html {
   padding-top: 15px;
   padding-bottom: 20px;
   background-color: #FFFEF2;
+  -moz-box-shadow: 3px 3px 30px 5px gray;
+  -webkit-box-shadow: 3px 3px 30px 5px gray;
   box-shadow: 3px 3px 30px 5px gray;
 }
 
 .card-title {
   padding-top: 25px;
+  -moz-text-shadow: 5px 5px 5px #ff0000;
+  -webkit-text-shadow: 5px 5px 5px #ff0000;
   text-shadow: 5px 5px 5px #ff0000;
 }
 
 .card-body {
   text-align: center;
   color: black;
+  -moz-text-shadow: 1px 1px 0px white;
+  -webkit-text-shadow: 1px 1px 0px white;
   text-shadow: 1px 1px 0px white;
 }
 
