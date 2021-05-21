@@ -46,6 +46,7 @@ As a user, I should be able to ...
   - Cards should not decrease in width.
   - Row should wrap to one column as soon as the first card shifts out of the line.
 - Front page cards blur cuts off abruptly.
+- Nav bar needs bootstrap hamburger menu on shrink.
 
 ### Color Scheme
 
