@@ -12,6 +12,8 @@ class Header extends HTMLElement {
         }
 
         .fixed-header {
+          position: sticky;
+          top: 0;
           width: 100%;
           position: fixed;
           padding: 10px 0;
@@ -43,6 +45,7 @@ class Header extends HTMLElement {
         ul li {
           list-style: none;
           display: inline;
+          letter-spacing: 1px;
         }
 
         a {
@@ -59,8 +62,8 @@ class Header extends HTMLElement {
           box-shadow: inset 0 -2px 0 0 red;
         }
 
-        .container {
-          width: 80%;
+        .container nav-container{
+          max-width: 90%
           margin: 0 auto; /* Center the DIV horizontally */
         }
 
@@ -71,19 +74,37 @@ class Header extends HTMLElement {
 
       </style>
       <div class="fixed-header">
-        <div class="container">
+        <div class="container nav-container">
           <header>
-            <nav>
-              <ul>
-                <li><img id="header-logo" src="assets/images/StephanieStrange_StephAndNina_Logo_Solid.png"</li>
-                <li><a href="index.html">Home</a></li>
-                <li><a href="about.html">Music</a></li>
-                <li><a href="shows.html">Shows</a></li>
-                <li><a href="stories.html">Stories</a></li>
-                <li><a href="subscribe.html">Subscribe</a></li>
-                <li><a href="bookings.html">Bookings</a></li>
-                <li><a class="btn btn-danger" href="merch.html">Merch</a></li>
-              </ul>
+            <nav class="navbar navbar-expand-lg sticky-top">
+              <li><a><img id="header-logo" src="assets/images/StephanieStrange_StephAndNina_Logo_Solid.png"></a></li>
+              <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav mr-auto">
+
+                  <button class="navbar-inverse navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                  </button>
+
+                  <li class="nav-item">
+                    <a class="nav-link" href="about.html">Music</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="shows.html">Shows</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="stories.html">Stories</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="subscribe.html">Subscribe</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="bookings.html">Bookings</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="btn btn-danger" href="merch.html">Merch</a>
+                  </li>
+                </ul>
+              </div>
             </nav>
           </header>
         </div>
