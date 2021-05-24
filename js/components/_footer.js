@@ -52,7 +52,7 @@ class Footer extends HTMLElement {
         }
       </style>
 
-      <footer>
+      <footer class="footer bg-dark">
         <ul>
           <li><img class="footer-img" src="assets/images/StephanieStrange_StephAndNina_Logo_Solid.png" alt="Black and white round logo of Stephanie Strange and Nina Nightmare"></li>
           <li><h3>Strange & the Familiars</h3></li>
@@ -72,7 +72,7 @@ class Footer extends HTMLElement {
 
         <form style="padding-right: 40px; width: 300px;">
           <fieldset>
-            <legend>Get in Touch</legend>
+            <legend style="letter-spacing: 2px;">Get in Touch</legend>
 
             <label for="email">
               Email: <input type="text" id="email" name="email_address" placeholder="Let the magic happen."></input>
