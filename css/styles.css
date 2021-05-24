@@ -97,3 +97,76 @@ body, html {
       column-count: 3;
   }
 }
+
+/* Music Page Styles */
+
+#album-holder {
+  text-align: center;
+}
+
+/* .grid-container {
+  display: grid;
+  grid-template-columns: auto auto;
+  padding: 10px;
+} */
+.grid-item {
+  background-color: #440003;
+  -moz-box-shadow: 3px 3px 30px 5px gray;
+  -webkit-box-shadow: 3px 3px 30px 5px gray;
+  box-shadow: 3px 3px 30px 5px gray;
+  border-radius: 2%;
+  padding: 20px;
+  font-size: 30px;
+  text-align: center;
+}
+
+/* About Music Styles */
+
+#bio-box {
+  margin: 25px 300px 25px 300px;
+}
+
+#about-box {
+  margin: 50px 150px 150px 100px;
+  text-align: center;
+  letter-spacing: 1px;
+  border-radius: 20%;
+  background-color: #440003;
+}
+
+.about-header {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.steph-nina-header {
+  font-size: 25px;
+  font-weight: bold;
+  letter-spacing: 2px;
+}
+
+.steph-nina-about-images {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  border-radius: 50%;
+  height: 250px;
+}
+
+.row1-about-images {
+  margin-top: 100px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  border-radius: 50%;
+  height: 150px;
+}
+
+.row3-about-images {
+  margin-bottom: 20px;
+  margin-top: 50px;
+  border-radius: 50%;
+  height: 150px;
+}
+
+.row3 {
+  padding-bottom: 50px;
+}
