@@ -73,10 +73,11 @@ class Header extends HTMLElement {
         }
 
       </style>
+
       <div class="fixed-header">
-        <div class="container nav-container">
+        <div class="nav-container">
           <header>
-            <nav class="navbar navbar-expand-lg sticky-top">
+            <nav class="navbar fixed-top navbar-expand-lg">
               <a class="nav-brand" href="/index.html"><img id="header-logo" src="../assets/images/StephanieStrange_StephAndNina_Logo_Solid.png"></a>
               <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav mr-auto">
@@ -106,9 +107,16 @@ class Header extends HTMLElement {
                   <li class="nav-item">
                     <a class="btn btn-danger" href="pages/merch.html">Merch</a>
                   </li>
+
                 </ul>
               </div>
-            </nav>
+
+              <nav class="navbar navbar-dark">
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggleExternalContent" aria-controls="navbarToggleExternalContent" aria-expanded="false" aria-label="Toggle navigation">
+                  <span class="navbar-toggler-icon"></span>
+                </button>
+              </nav>
+
           </header>
         </div>
       </div>
