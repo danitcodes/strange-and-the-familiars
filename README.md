@@ -58,6 +58,7 @@ As a user, I should be able to ...
 
 ### References
 
+- ** Transferring an existing domain name to Wordpress [here](https://wordpress.com/support/domains/map-existing-domain/)
 - ** Developing a Wordpress theme from scratch [here](https://www.taniarascia.com/developing-a-wordpress-theme-from-scratch/#installing-wordpress)
 - ** Reusable html components [here](https://www.freecodecamp.org/news/reusable-html-components-how-to-reuse-a-header-and-footer-on-a-website/)
 - WordPress Coding Standards [here](https://developer.wordpress.org/coding-standards/)
