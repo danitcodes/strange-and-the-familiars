@@ -77,7 +77,7 @@ class Header extends HTMLElement {
         <div class="container nav-container">
           <header>
             <nav class="navbar navbar-expand-lg sticky-top">
-              <li><a><img id="header-logo" src="../assets/images/StephanieStrange_StephAndNina_Logo_Solid.png"></a></li>
+              <a class="nav-brand" href="/index.html"><img id="header-logo" src="../assets/images/StephanieStrange_StephAndNina_Logo_Solid.png"></a>
               <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav mr-auto">
 
@@ -86,22 +86,25 @@ class Header extends HTMLElement {
                   </button>
 
                   <li class="nav-item">
-                    <a class="nav-link" href="about.html">Music</a>
+                    <a class="nav-link" href="../../pages/about.html">About</a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link" href="shows.html">Shows</a>
+                    <a class="nav-link" href="../../pages/music.html">Music</a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link" href="stories.html">Stories</a>
+                    <a class="nav-link" href="../../pages/shows.html">Shows</a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link" href="subscribe.html">Subscribe</a>
+                    <a class="nav-link" href="../../pages/stories.html">Stories</a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link" href="bookings.html">Bookings</a>
+                    <a class="nav-link" href="../../pages/subscribe.html">Subscribe</a>
                   </li>
                   <li class="nav-item">
-                    <a class="btn btn-danger" href="merch.html">Merch</a>
+                    <a class="nav-link" href="../../pages/bookings.html">Bookings</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="btn btn-danger" href="pages/merch.html">Merch</a>
                   </li>
                 </ul>
               </div>
