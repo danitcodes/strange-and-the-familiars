@@ -77,7 +77,7 @@ class Header extends HTMLElement {
         <div class="container nav-container">
           <header>
             <nav class="navbar navbar-expand-lg sticky-top">
-              <li><a><img id="header-logo" src="assets/images/StephanieStrange_StephAndNina_Logo_Solid.png"></a></li>
+              <li><a><img id="header-logo" src="../assets/images/StephanieStrange_StephAndNina_Logo_Solid.png"></a></li>
               <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav mr-auto">
 

@@ -54,7 +54,7 @@ class Footer extends HTMLElement {
 
       <footer class="footer bg-dark">
         <ul>
-          <li><img class="footer-img" src="assets/images/StephanieStrange_StephAndNina_Logo_Solid.png" alt="Black and white round logo of Stephanie Strange and Nina Nightmare"></li>
+          <li><img class="footer-img" src="../assets/images/StephanieStrange_StephAndNina_Logo_Solid.png" alt="Black and white round logo of Stephanie Strange and Nina Nightmare"></li>
           <li><h3>Strange & the Familiars</h3></li>
           <li>©2021, Modern Potions Consulting.</li>
         </ul>
