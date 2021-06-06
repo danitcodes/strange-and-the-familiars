@@ -18,10 +18,7 @@ class Header extends HTMLElement {
           position: fixed;
           padding: 10px 0;
           color: #FFFEF2;
-        }
-
-        .fixed-header {
-          top: 0;
+          z-index: 1;
         }
 
         nav {
