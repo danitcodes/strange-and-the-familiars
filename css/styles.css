@@ -37,6 +37,7 @@ body, html {
 /* Landing page cards */
 
 .card {
+  flex-wrap: wrap;
   margin-top: 75px;
   margin-bottom: 100px;
   padding-top: 15px;
@@ -170,4 +171,15 @@ body, html {
 
 .row3 {
   padding-bottom: 50px;
+}
+
+/* Bookings Styles */
+
+.album-holder {
+  display: flex;
+}
+
+#bookings-img {
+  float: left;
+  margin: 5px;
 }
