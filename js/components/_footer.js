@@ -76,8 +76,8 @@ class Footer extends HTMLElement {
         </ul>
 
         <div style="padding-right: 40px; width: 300px;">
-            <h4 style="letter-spacing: 2px;">Find Us</h4>
-            <social-buttons-row></social-buttons-row>
+          <h4 style="letter-spacing: 2px;">Find Us</h4>
+          <social-buttons></social-buttons>
         </div>
 
       </footer>
