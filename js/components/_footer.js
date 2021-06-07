@@ -54,30 +54,40 @@ class Footer extends HTMLElement {
 
       <footer class="footer bg-dark">
         <ul>
-          <li><img class="footer-img" src="../assets/images/StephanieStrange_StephAndNina_Logo_Solid.png" alt="Black and white round logo of Stephanie Strange and Nina Nightmare"></li>
+          <li>
+            <a href="../../index.html">
+              <img class="footer-img"
+                src="../assets/images/StephanieStrange_StephAndNina_Logo_Solid.png"
+                alt="Black and white round logo of Stephanie Strange and Nina Nightmare">
+            </a>
+          </li>
           <li><h3>Strange & the Familiars</h3></li>
           <li>©2021, Modern Potions Consulting.</li>
         </ul>
 
         <ul style="text-align: center;">
-          <h4 class="nav-bar-menu">Navigate</h4>
-          <li class="nav-bar-menu"><a href="index.html">Home</a></li>
-          <li class="nav-bar-menu"><a href="music.html">Music</a></li>
-          <li class="nav-bar-menu"><a href="shows.html">Shows</a></li>
-          <li class="nav-bar-menu"><a href="stories.html">Stories</a></li>
-          <li class="nav-bar-menu"><a href="subscribe.html">Subscribe</a></li>
-          <li class="nav-bar-menu"><a href="bookings.html">Bookings</a></li>
-          <li class="nav-bar-menu"><a href="merch.html">Merch ↗</a></li>
+          <li class="nav-bar-menu"><a href="pages/about.html">About</a></li>
+          <li class="nav-bar-menu"><a href="pages/music.html">Music</a></li>
+          <li class="nav-bar-menu"><a href="pages/shows.html">Shows</a></li>
+          <li class="nav-bar-menu"><a href="pages/stories.html">Stories</a></li>
+          <li class="nav-bar-menu"><a href="pages/subscribe.html">Subscribe</a></li>
+          <li class="nav-bar-menu"><a href="pages/bookings.html">Bookings</a></li>
+          <li class="nav-bar-menu"><a href="pages/merch.html">Merch ↗</a></li>
         </ul>
 
-        <form style="padding-right: 40px; width: 300px;">
+        <form
+          action="mailto:strangebookingpdx@gmail.com"
+          style="padding-right: 40px; width: 300px;"
+          method="POST"
+          enctype="multipart/form-data"
+          name="EmailForm">
           <fieldset>
             <legend style="letter-spacing: 2px;">Get in Touch</legend>
 
             <label for="email">
-              Email: <input type="text" id="email" name="email_address" placeholder="Let the magic happen."></input>
+              Email: <input type="text" id="email" name="email-address" placeholder="Let the magic happen." required/>
             </label><br/>
-            <button class="btn btn-danger" style="text-align: center; width: 220px;" type="submit">SUBSCRIBE</button>
+            <button class="btn btn-danger" style="text-align: center; width: 220px;" type="submit" value="Subscribe">SUBSCRIBE</button>
             <social-buttons-row></social-buttons-row>
           </fieldset>
         </form>
