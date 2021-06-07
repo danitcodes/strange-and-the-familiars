@@ -72,11 +72,11 @@ class Footer extends HTMLElement {
           <li class="nav-bar-menu"><a href="pages/stories.html">Stories</a></li>
           <li class="nav-bar-menu"><a href="pages/subscribe.html">Subscribe</a></li>
           <li class="nav-bar-menu"><a href="pages/bookings.html">Bookings</a></li>
-          <li class="nav-bar-menu"><a href="pages/merch.html">Merch ↗</a></li>
+          <li class="nav-bar-menu" style="color: red;"><a href="https://strangeandthefamiliars.bandcamp.com/">Merch ↗</a></li>
         </ul>
 
         <div style="padding-right: 40px; width: 300px;">
-          <h4 style="letter-spacing: 2px;">Find Us</h4>
+          <h4 style="letter-spacing: 2px; text-align: center;">Find Us</h4>
           <social-buttons></social-buttons>
         </div>
 
