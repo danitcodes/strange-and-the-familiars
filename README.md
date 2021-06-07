@@ -58,6 +58,7 @@ As a user, I should be able to ...
 
 ### References
 
+- How to use Bootstrap in WordPress [here](https://www.bluehost.com/blog/how-to-use-bootstrap-in-wordpress-a-helpful-guide-bluehost/#:~:text=Although%20the%20Bootstrap%20framework%20was,to%20the%20WordPress%20core%20code.)
 - ** Transferring an existing domain name to Wordpress [here](https://wordpress.com/support/domains/map-existing-domain/)
 - ** Developing a Wordpress theme from scratch [here](https://www.taniarascia.com/developing-a-wordpress-theme-from-scratch/#installing-wordpress)
 - ** Reusable html components [here](https://www.freecodecamp.org/news/reusable-html-components-how-to-reuse-a-header-and-footer-on-a-website/)
