@@ -96,9 +96,6 @@ class Header extends HTMLElement {
                     <a class="nav-link" href="../../pages/stories.html">Stories</a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link" href="../../pages/subscribe.html">Subscribe</a>
-                  </li>
-                  <li class="nav-item">
                     <a class="nav-link" href="../../pages/bookings.html">Bookings</a>
                   </li>
                   <li class="nav-item">
