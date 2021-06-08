@@ -42,6 +42,7 @@ As a user, I should be able to ...
 - HTML5, reusable components with vanilla HTML
 - CSS3
 - ES6 JavaScript
+- [Markdown badges](https://github.com/Ileriayo/markdown-badges)
 
 ### Known Bugs
 
