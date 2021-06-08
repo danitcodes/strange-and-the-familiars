@@ -32,6 +32,17 @@ As a user, I should be able to ...
 - Create community.
 - Feel like my authentic, quirky self is enough, and is seen.
 
+### Technology Used
+
+- Font Awesome v4.7.0 & v5.3.0
+- Bootstrap v4.3.1
+- jQuery v3.6.0
+- Google Fonts
+- Favicon
+- HTML5, reusable components with vanilla HTML
+- CSS3
+- ES6 JavaScript
+
 ### Known Bugs
 
 - Footer is not yet responsive on smaller screens - scrunches all columns together currently.
