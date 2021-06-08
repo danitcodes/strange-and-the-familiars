@@ -45,7 +45,7 @@ class SocialButtons extends HTMLElement {
           </li>
           <li>
             <a target="_blank" href="https://www.flickr.com/photos/136189457@N06">
-              <i class="fab fa-flickr" aria-hidden="true"></i>
+              <i class="fa fa-flickr" aria-hidden="true"></i>
             </a>
           </li>
           <li>
