@@ -11,6 +11,13 @@ body, html {
   color: #FFFEF2;
 }
 
+.h2-pages {
+  text-align: center;
+  letter-spacing: 2px;
+  padding-top: 50px;
+  text-shadow: 3px 3px 3px gray;
+}
+
 /* Landing page styles */
 
 .header {
@@ -106,23 +113,19 @@ body, html {
   text-align: center;
 }
 
-/* .grid-container {
-  display: grid;
-  grid-template-columns: auto auto;
-  padding: 10px;
-} */
 .grid-item {
   background-color: #440003;
   -moz-box-shadow: 3px 3px 30px 5px gray;
   -webkit-box-shadow: 3px 3px 30px 5px gray;
   box-shadow: 3px 3px 30px 5px gray;
-  border-radius: 2%;
+  border-radius: 5%;
   padding: 20px;
+  margin-bottom: 50px;
   font-size: 30px;
   text-align: center;
 }
 
-/* About Music Styles */
+/* About Styles */
 
 #bio-box {
   margin: 25px 300px 25px 300px;
