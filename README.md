@@ -1,10 +1,24 @@
+<div align="center">
+
 # Strange and the Familiars
+
+## A Website Redesign for Local Portland Band
+
+<img src="./assets/images/SplashPageScreenshot.png" alt="A splash page screenshot of Stephanie Strange in a red dress crouched over snow in front of snow-covered trees" height="400px" width="auto">
+
+## By Danielle Thompson
+
+<a href="https://github.com/danitcodes"> ![GitHub followers](https://img.shields.io/github/followers/danitcodes?style=social)	</a> <a href="https://linkedin.com/in/danielle-thompson74"> <img src="https://img.shields.io/badge/-LinkedIn-black.svg?style=plastic&logo=linkedin&colorB=2867B2"></a>
+
+### Project initiated 4.2021. ![GitHub last commit](https://img.shields.io/github/last-commit/danitcodes/-capstone)
+
+</div>
+
+---
 
 ## Description
 
-Prep work and hi-fi page building for Portland's Strange and the Familiars professional band website.
-
-## By Danielle Thompson
+Prep work and hi-fi page building for Portland's Strange and the Familiars professional band website. Live site coming soon.
 
 ### User Stories
 
@@ -34,6 +48,11 @@ As a user, I should be able to ...
 
 ### Technology Used
 
+- VS Code
+- WordPress
+- BlueHost
+- Git
+- npm v.7.5.2
 - Font Awesome v4.7.0 & v5.3.0
 - Bootstrap v4.3.1
 - jQuery v3.6.0
@@ -78,6 +97,13 @@ As a user, I should be able to ...
 - ~~WordPress and React [here](https://www.freecodecamp.org/news/wordpress-react-how-to-create-a-modern-web-app-using-wordpress-ef6cc6be0cd0/#:~:text=If%20you%20want%20to%20create,CMS%20like%20WordPress%2C%20you%20can!)~~
 - ~~React inside WordPress [here](https://dev.to/bobman38/how-to-use-react-inside-a-wordpress-application-49i)~~
 
-### Legal
+___
 
-[MIT](https://opensource.org/licenses/MIT). 2021, Danielle Thompson.
+<div align="center">
+
+### Legal, or License
+
+This software is licensed under the [![GitHub](https://img.shields.io/github/license/danitcodes/-capstone)](https://choosealicense.com/licenses/mit/).<br/>
+Copyright (c) 2021 *_Danielle Thompson_*
+
+</div>
