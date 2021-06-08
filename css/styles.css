@@ -50,9 +50,9 @@ body, html {
 
 .card-title {
   padding-top: 25px;
-  -moz-text-shadow: 5px 5px 5px #ff0000;
-  -webkit-text-shadow: 5px 5px 5px #ff0000;
-  text-shadow: 5px 5px 5px #ff0000;
+  -moz-text-shadow: 5px 5px 5px gray;
+  -webkit-text-shadow: 5px 5px 5px gray;
+  text-shadow: 5px 5px 5px gray;
 }
 
 .card-body {
