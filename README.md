@@ -65,19 +65,23 @@ As a user, I should be able to ...
 
 ### Known Bugs
 
+[Report bugs here.](https://github.com/danitcodes/strange-and-the-familiars/issues) | [Request features here.](https://github.com/danitcodes/strange-and-the-familiars/issues)
+
 - Footer is not yet responsive on smaller screens - scrunches all columns together currently.
-  - Want "Get in Touch" to go above Logo.
+  - Want "Find Us" to go above Logo.
   - Want Navigate to go into two columns with "Merch" link centered below both columns.
   - Want Logo, footer header, & copyright last on the page.
 - Need to compress all images for speed and convert all to svg.
 - Need to make <h1> on home page reduce font size after 700px break and move position to bottom-right or -center so Stephanie's face does not get covered in mobile versions.
 - Double check all box-shadow/text-shadow, etc styles have -moz and -webflow settings included.
-- Fix home page card responsivity.
+- _Improved 6.2021 but still WIP:_ Fix home page card responsivity.
   - Images do not stay centered.
   - Cards should not decrease in width.
   - Row should wrap to one column as soon as the first card shifts out of the line.
 - Front page cards blur cuts off abruptly.
-- Nav bar needs bootstrap hamburger menu on shrink.
+- Nav bar Bootstrap hamburger menu displays without being in reduced viewport on music, shows, stories, and bookings pages, creating a duplicate nav bar.
+- Social buttons component does not display in any page except the index/splash.
+- About page has a weird white mark in top left corner that I cannot yet trace.
 
 ### Color Scheme
 
