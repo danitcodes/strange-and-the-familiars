@@ -45,11 +45,11 @@ class SocialButtons extends HTMLElement {
           </li>
           <li>
             <a target="_blank" href="https://www.flickr.com/photos/136189457@N06">
-              <i class="fa fa-flickr" aria-hidden="true"></i>
+              <i class="fab fa-flickr" aria-hidden="true"></i>
             </a>
           </li>
           <li>
-            <a target="_blank" href="https://www.flickr.com/photos/136189457@N06">
+            <a target="_blank" href="mailto:strangeandthefamiliarsbooking@gmail.com">
               <i class="fa fa-envelope-square" aria-hidden="true"></i>
             </a>
           </li>
