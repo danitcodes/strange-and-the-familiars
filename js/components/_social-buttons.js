@@ -59,4 +59,4 @@ class SocialButtons extends HTMLElement {
   }
 }
 
-customElements.define('social-buttons', SocialButtons)
+customElements.define('social-buttons', SocialButtons);
