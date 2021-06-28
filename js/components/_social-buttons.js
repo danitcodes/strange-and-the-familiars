@@ -49,7 +49,7 @@ class SocialButtons extends HTMLElement {
             </a>
           </li>
           <li>
-            <a target="_blank" href="mailto:strangeandthefamiliarsbooking@gmail.com">
+            <a target="_blank" href="mailto:strangebookingpdx@gmail.com">
               <i class="fa fa-envelope-square" aria-hidden="true"></i>
             </a>
           </li>
