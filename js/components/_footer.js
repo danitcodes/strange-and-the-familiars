@@ -69,7 +69,6 @@ class Footer extends HTMLElement {
           <li class="nav-bar-menu"><a href="pages/about.html">About</a></li>
           <li class="nav-bar-menu"><a href="pages/music.html">Music</a></li>
           <li class="nav-bar-menu"><a href="pages/shows.html">Shows</a></li>
-          <li class="nav-bar-menu"><a href="pages/stories.html">Stories</a></li>
           <li class="nav-bar-menu"><a href="pages/bookings.html">Bookings</a></li>
           <li class="nav-bar-menu" style="color: red;"><a href="https://strangeandthefamiliars.bandcamp.com/">Merch ↗</a></li>
         </ul>
