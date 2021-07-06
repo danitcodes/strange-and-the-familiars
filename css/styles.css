@@ -49,7 +49,7 @@ body, html {
   margin-bottom: 100px;
   padding-top: 15px;
   padding-bottom: 20px;
-  background-color: #FFFEF2;
+  background-color: white;
   -moz-box-shadow: 3px 3px 30px 5px gray;
   -webkit-box-shadow: 3px 3px 30px 5px gray;
   box-shadow: 3px 3px 30px 5px gray;
@@ -186,4 +186,38 @@ body, html {
 #bookings-img {
   float: left;
   margin: 5px;
+}
+
+/* Music Styles */
+
+.music-holder {
+  padding: 0px 100px;
+}
+
+.music-page-grid {
+  justify-items: center;
+  align-items: center;
+  justify-content: center;
+}
+
+.music-h4 {
+  text-align: center;
+  letter-spacing: 2px;
+  text-shadow: 3px 3px 3px gray;
+}
+
+.music-cards {
+  background-color: goldenrod;
+}
+
+.music-card-subtitle {
+  -moz-text-shadow: 5px 5px 5px gray;
+  -webkit-text-shadow: 5px 5px 5px gray;
+  text-shadow: 5px 5px 5px gray;
+}
+
+.music-card-text {
+  -moz-text-shadow: 5px 5px 5px gray;
+  -webkit-text-shadow: 5px 5px 5px gray;
+  text-shadow: 5px 5px 5px gray;
 }
