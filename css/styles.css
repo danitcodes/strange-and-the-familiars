@@ -18,7 +18,9 @@ body, html {
   text-shadow: 3px 3px 3px gray;
 }
 
+/*****************/
 /* Landing page styles */
+/*****************/
 
 .header {
   padding-top: 25vh;
@@ -41,7 +43,9 @@ body, html {
   transform: translate(-10%, 10%);
 }
 
+/*****************/
 /* Landing page cards */
+/*****************/
 
 .card {
   flex-wrap: wrap;
@@ -107,7 +111,9 @@ body, html {
   }
 }
 
+/*****************/
 /* Music Page Styles */
+/*****************/
 
 #album-holder {
   text-align: center;
@@ -125,7 +131,9 @@ body, html {
   text-align: center;
 }
 
+/*****************/
 /* About Styles */
+/*****************/
 
 #bio-box {
   margin: 25px 300px 25px 300px;
@@ -177,7 +185,9 @@ body, html {
   padding-bottom: 50px;
 }
 
+/*****************/
 /* Bookings Styles */
+/*****************/
 
 .album-holder {
   display: flex;
@@ -188,7 +198,9 @@ body, html {
   margin: 5px;
 }
 
+/*****************/
 /* Music Styles */
+/*****************/
 
 .music-holder {
   padding: 0px 100px;
