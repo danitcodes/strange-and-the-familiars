@@ -160,6 +160,7 @@ body, html {
   padding-bottom: 20px;
   border-radius: 50%;
   height: 250px;
+  width: 200px;
   -moz-box-shadow: 3px 3px 30px 5px gray;
   -webkit-box-shadow: 3px 3px 30px 5px gray;
   box-shadow: 3px 3px 30px 5px gray;
@@ -170,14 +171,22 @@ body, html {
   padding-top: 20px;
   padding-bottom: 20px;
   border-radius: 50%;
-  height: 150px;
+  height: 200px;
+  width: 125px;
+  -moz-box-shadow: 3px 3px 30px 5px gray;
+  -webkit-box-shadow: 3px 3px 30px 5px gray;
+  box-shadow: 3px 3px 30px 5px gray;
 }
 
 .row3-about-images {
   margin-bottom: 20px;
   margin-top: 50px;
   border-radius: 50%;
-  height: 150px;
+  height: 175px;
+  width: 125px;
+  -moz-box-shadow: 3px 3px 30px 5px gray;
+  -webkit-box-shadow: 3px 3px 30px 5px gray;
+  box-shadow: 3px 3px 30px 5px gray;
 }
 
 .row3 {
