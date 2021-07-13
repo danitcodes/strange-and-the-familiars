@@ -51,27 +51,23 @@ body, html {
   flex-wrap: wrap;
   margin-top: 75px;
   margin-bottom: 100px;
-  padding-top: 15px;
-  padding-bottom: 20px;
+  padding: 15px 10px 20px 10px;
+  /* padding-top: 15px;
+  padding-bottom: 20px; */
+  border-radius: 50px 20px 50px 5px;
   background-color: white;
-  -moz-box-shadow: 3px 3px 30px 5px gray;
-  -webkit-box-shadow: 3px 3px 30px 5px gray;
-  box-shadow: 3px 3px 30px 5px gray;
+  -moz-box-shadow: 2px 3px 10px 5px gray;
+  -webkit-box-shadow: 2px 3px 10px 5px gray;
+  box-shadow: 2px 3px 10px 5px gray;
 }
 
 .card-title {
   padding-top: 25px;
-  -moz-text-shadow: 5px 5px 5px gray;
-  -webkit-text-shadow: 5px 5px 5px gray;
-  text-shadow: 5px 5px 5px gray;
 }
 
 .card-body {
   text-align: center;
   color: black;
-  -moz-text-shadow: 1px 1px 0px white;
-  -webkit-text-shadow: 1px 1px 0px white;
-  text-shadow: 1px 1px 0px white;
 }
 
 .card-img-top {
