@@ -72,7 +72,7 @@ As a user, I should be able to ...
   - Want Navigate to go into two columns with "Merch" link centered below both columns.
   - Want Logo, footer header, & copyright last on the page.
 - Need to compress all images for speed and convert all to svg.
-- Need to make <h1> on home page reduce font size after 700px break and move position to bottom-right or -center so Stephanie's face does not get covered in mobile versions.
+- Need to make `<h1>` on home page reduce font size after 700px break and move position to bottom-right or -center so Stephanie's face does not get covered in mobile versions.
 - Double check all box-shadow/text-shadow, etc styles have -moz and -webflow settings included.
 - _Improved 6.2021 but still WIP:_ Fix home page card responsivity.
   - Images do not stay centered.
