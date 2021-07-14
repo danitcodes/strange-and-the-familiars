@@ -10,7 +10,7 @@
 
 <a href="https://github.com/danitcodes"> ![GitHub followers](https://img.shields.io/github/followers/danitcodes?style=social)	</a> <a href="https://linkedin.com/in/danielle-thompson74"> <img src="https://img.shields.io/badge/-LinkedIn-black.svg?style=plastic&logo=linkedin&colorB=2867B2"></a>
 
-### Project initiated 4.2021. ![GitHub last commit](https://img.shields.io/github/last-commit/danitcodes/-capstone)
+### Project initiated 4.2021. ![GitHub last commit](https://img.shields.io/github/last-commit/danitcodes/strange-and-the-familiars)
 
 </div>
 
