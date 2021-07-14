@@ -18,7 +18,7 @@
 
 ## Description
 
-Prep work and hi-fi page building for Portland's Strange and the Familiars professional band website. Live site coming soon.
+Prep work and hi-fi page building for Portland's Strange and the Familiars professional band website. Live site coming soon. View development live site [here](https://strange-and-the-familiars.vercel.app/) before the redesign hits production.
 
 ### User Stories
 
