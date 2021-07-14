@@ -70,7 +70,7 @@ class Footer extends HTMLElement {
           <li class="nav-bar-menu"><a href="pages/music.html">Music</a></li>
           <li class="nav-bar-menu"><a href="pages/shows.html">Shows</a></li>
           <li class="nav-bar-menu"><a href="pages/contact.html">Contact</a></li>
-          <li class="nav-bar-menu" style="color: red;"><a href="https://strangeandthefamiliars.bandcamp.com/">Merch ↗</a></li>
+          <li class="nav-bar-menu" style="color: red;"><a href="https://strangeandthefamiliars.bandcamp.com/">Merch <span class="away-arrow">↗</span></a></li>
         </ul>
 
         <div style="padding-right: 40px; width: 300px;">
