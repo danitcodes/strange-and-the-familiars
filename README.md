@@ -4,7 +4,7 @@
 
 ## A Website Redesign for Local Portland Band
 
-<img src="./assets/images/SplashPageScreenshot.png" alt="A splash page screenshot of Stephanie Strange in a red dress crouched over snow in front of snow-covered trees" height="400px" width="auto">
+<img src="./assets/images/SplashPage.png" alt="A splash page screenshot of Stephanie Strange in a red dress crouched over snow in front of snow-covered trees" height="400px" width="auto">
 
 ## By Danielle Thompson
 
