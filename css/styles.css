@@ -18,6 +18,19 @@ body, html {
   text-shadow: 3px 3px 3px gray;
 }
 
+.away-arrow {
+  display: none;
+}
+
+a:hover + .away-arrow {
+  display: block;
+}
+
+/* when a user clicks or taps the element, or selects it with the Tab key of their keyboard */
+a:focus + .away-arrow {
+  display: block;
+}
+
 /*****************/
 /* Landing page styles */
 /*****************/
@@ -167,6 +180,7 @@ body, html {
 }
 
 .row1-about-images {
+  margin-bottom: 20px;
   margin-top: 100px;
   padding-top: 20px;
   padding-bottom: 20px;
@@ -202,6 +216,7 @@ body, html {
 }
 
 #bookings-img {
+
   float: left;
   margin: 5px;
 }
