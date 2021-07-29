@@ -91,10 +91,10 @@ class Header extends HTMLElement {
                   <a class="nav-link" href="../../pages/shows.html">Shows</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="../../pages/contact.html">Contact</a>
+                  <a class="nav-link" href="../../pages/merch.html">Merch</a>
                 </li>
                 <li class="nav-item">
-                  <a class="btn btn-danger" href="https://strangeandthefamiliars.bandcamp.com/">Merch</a>
+                  <a class="nav-link" href="../../pages/contact.html">Contact</a>
                 </li>
 
               </ul>
@@ -116,10 +116,10 @@ class Header extends HTMLElement {
                       <a class="nav-link" href="../../pages/shows.html">Shows</a>
                     </li>
                     <li class="nav-item">
-                      <a class="nav-link" href="../../pages/contact.html">Contact</a>
+                      <a class="nav-link" href="../../pages/merch.html">Merch</a>
                     </li>
                     <li class="nav-item">
-                      <a class="btn btn-danger" href="pages/merch.html">Merch</a>
+                      <a class="nav-link" href="../../pages/contact.html">Contact</a>
                     </li>
 
                   </ul>
