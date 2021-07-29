@@ -81,7 +81,10 @@ As a user, I should be able to ...
 - Nav bar Bootstrap hamburger menu displays without being in reduced viewport on music, shows, merch, stories, and bookings pages, creating a duplicate nav bar.
 - Want nav bar links to be centered in normal viewports.
 - Social buttons icons in footer are not perfectly aligned.
-- About page has a weird white mark in top left corner that I cannot yet trace.
+- About page has a weird white mark in top left corner that I cannot yet trace. (see below)
+![White mark bug on About page](assets/images/BugOnAboutPg.png)
+- Contact page columns aren't correctly aligned - words overlap onto image.
+- Contact page image isn't responsive.
 
 ### Color Scheme
 
