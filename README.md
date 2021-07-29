@@ -67,7 +67,7 @@ As a user, I should be able to ...
 
 [Report bugs here.](https://github.com/danitcodes/strange-and-the-familiars/issues) | [Request features here.](https://github.com/danitcodes/strange-and-the-familiars/issues)
 
-- Footer is not yet responsive on smaller screens - scrunches all columns together currently.
+- Footer is not yet appropriately responsive on smaller screens - scrunches all columns together currently.
   - Want "Find Us" to go above Logo.
   - Want Navigate to go into two columns with "Merch" link centered below both columns.
   - Want Logo, footer header, & copyright last on the page.
@@ -78,9 +78,9 @@ As a user, I should be able to ...
   - Images do not stay centered.
   - Cards should not decrease in width.
   - Row should wrap to one column as soon as the first card shifts out of the line.
-- Front page cards blur cuts off abruptly.
-- Nav bar Bootstrap hamburger menu displays without being in reduced viewport on music, shows, stories, and bookings pages, creating a duplicate nav bar.
-- Social buttons component does not display in any page except the index/splash.
+- Nav bar Bootstrap hamburger menu displays without being in reduced viewport on music, shows, merch, stories, and bookings pages, creating a duplicate nav bar.
+- Want nav bar links to be centered in normal viewports.
+- Social buttons icons in footer are not perfectly aligned.
 - About page has a weird white mark in top left corner that I cannot yet trace.
 
 ### Color Scheme
@@ -107,7 +107,7 @@ ___
 
 ### Legal, or License
 
-This software is licensed under the [![GitHub](https://img.shields.io/github/license/danitcodes/-capstone)](https://choosealicense.com/licenses/mit/).<br/>
+This software is licensed under the [![GitHub](https://img.shields.io/github/license/danitcodes/strange-and-the-familiars)](https://choosealicense.com/licenses/mit/).<br/>
 Copyright (c) 2021 *_Danielle Thompson_*
 
 </div>
