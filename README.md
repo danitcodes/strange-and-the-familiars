@@ -85,6 +85,8 @@ As a user, I should be able to ...
 ![White mark bug on About page](assets/images/BugOnAboutPg.png)
 - Contact page columns aren't correctly aligned - words overlap onto image.
 - Contact page image isn't responsive.
+- Music page columns are responsive, but not correctly - YouTube embeds don't resize and words in columns shift over the top of the videos. Should stack columns on top of on another.
+- Embeds (YouTube & Spotify) on Music page aren't centered in their columns. Should center vertically and horizontally.
 
 ### Color Scheme
 
