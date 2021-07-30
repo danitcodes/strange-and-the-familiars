@@ -121,26 +121,6 @@ a:focus + .away-arrow {
 }
 
 /*****************/
-/* Music Page Styles */
-/*****************/
-
-#album-holder {
-  text-align: center;
-}
-
-.grid-item {
-  background-color: #440003;
-  -moz-box-shadow: 3px 3px 30px 5px gray;
-  -webkit-box-shadow: 3px 3px 30px 5px gray;
-  box-shadow: 3px 3px 30px 5px gray;
-  border-radius: 5%;
-  padding: 20px;
-  margin-bottom: 50px;
-  font-size: 30px;
-  text-align: center;
-}
-
-/*****************/
 /* About Styles */
 /*****************/
 
@@ -239,20 +219,4 @@ a:focus + .away-arrow {
   text-align: center;
   letter-spacing: 2px;
   text-shadow: 3px 3px 3px gray;
-}
-
-.music-cards {
-  background-color: goldenrod;
-}
-
-.music-card-subtitle {
-  -moz-text-shadow: 5px 5px 5px gray;
-  -webkit-text-shadow: 5px 5px 5px gray;
-  text-shadow: 5px 5px 5px gray;
-}
-
-.music-card-text {
-  -moz-text-shadow: 5px 5px 5px gray;
-  -webkit-text-shadow: 5px 5px 5px gray;
-  text-shadow: 5px 5px 5px gray;
 }
