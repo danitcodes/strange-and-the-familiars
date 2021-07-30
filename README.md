@@ -87,6 +87,7 @@ As a user, I should be able to ...
 - Contact page image isn't responsive.
 - Music page columns are responsive, but not correctly - YouTube embeds don't resize and words in columns shift over the top of the videos. Should stack columns on top of on another.
 - Embeds (YouTube & Spotify) on Music page aren't centered in their columns. Should center vertically and horizontally.
+- Need to get page URLs w/o .html ending. (Keep digging into .htaccess file useage.)
 
 ### Color Scheme
 
@@ -98,6 +99,8 @@ As a user, I should be able to ...
 
 ### References
 
+- .htaccess file stuff - includes HTTP to HTTPS for SSL certification stuff [here](https://support.hostway.com/hc/en-us/articles/115000678970-How-to-create-an-htaccess-file-and-what-it-can-be-used-for-)
+- Also, Ultimate Htaccess [guide](https://www.askapache.com/htaccess/)
 - How to use Bootstrap in WordPress [here](https://www.bluehost.com/blog/how-to-use-bootstrap-in-wordpress-a-helpful-guide-bluehost/#:~:text=Although%20the%20Bootstrap%20framework%20was,to%20the%20WordPress%20core%20code.)
 - ** Transferring an existing domain name to Wordpress [here](https://wordpress.com/support/domains/map-existing-domain/)
 - ** Developing a Wordpress theme from scratch [here](https://www.taniarascia.com/developing-a-wordpress-theme-from-scratch/#installing-wordpress)
