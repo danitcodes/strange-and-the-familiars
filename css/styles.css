@@ -208,12 +208,6 @@ p {
   padding: 0px 100px;
 }
 
-.music-page-grid {
-  justify-items: center;
-  align-items: center;
-  justify-content: center;
-}
-
 .music-h4 {
   text-align: center;
   letter-spacing: 2px;
@@ -224,4 +218,9 @@ iframe {
   display: block;
   margin: 0 auto;
   vertical-align: middle;
+}
+
+.resp-container {
+  position: relative;
+  overflow: hidden;
 }
