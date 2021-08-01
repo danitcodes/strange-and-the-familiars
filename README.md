@@ -96,6 +96,7 @@ As a user, I should be able to ...
 
 ### References
 
+- V helpful responsive iframe shtuff [here](https://blog.theodo.com/2018/01/responsive-iframes-css-trick/)
 - .htaccess file stuff - includes HTTP to HTTPS for SSL certification stuff [here](https://support.hostway.com/hc/en-us/articles/115000678970-How-to-create-an-htaccess-file-and-what-it-can-be-used-for-)
 - Also, Ultimate Htaccess [guide](https://www.askapache.com/htaccess/)
 - How to use Bootstrap in WordPress [here](https://www.bluehost.com/blog/how-to-use-bootstrap-in-wordpress-a-helpful-guide-bluehost/#:~:text=Although%20the%20Bootstrap%20framework%20was,to%20the%20WordPress%20core%20code.)
