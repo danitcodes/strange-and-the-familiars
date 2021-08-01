@@ -54,29 +54,29 @@ class Footer extends HTMLElement {
 
       <footer class="footer bg-dark">
         <ul>
-          <li>
+          <li class="nav-item">
             <a href="../../index.html">
-              <img class="footer-img"
+              <img class="footer-img img-responsive"
                 src="../assets/images/StephanieStrange_StephAndNina_Logo_Solid.png"
                 alt="Black and white round logo of Stephanie Strange and Nina Nightmare">
             </a>
           </li>
-          <li><h3>Strange & the Familiars</h3></li>
-          <li>©2021, Modern Potions Consulting.</li>
+          <li class="nav-item"><h3>Strange & the Familiars</h3></li>
+          <li class="nav-item">©2021, Modern Potions Consulting.</li>
         </ul>
 
         <ul style="text-align: center;">
           <li class="nav-bar-menu"><a href="pages/about.html">About</a></li>
           <li class="nav-bar-menu"><a href="pages/music.html">Music</a></li>
           <li class="nav-bar-menu"><a href="pages/shows.html">Shows</a></li>
-          <li class="nav-bar-menu"><a href="../pages/merch.html">Merch</a></li>
+          <li class="nav-bar-menu"><a href="pages/merch.html">Merch</a></li>
           <li class="nav-bar-menu"><a href="pages/contact.html">Contact</a></li>
         </ul>
 
         <div style="padding-right: 40px; width: 300px;">
           <div style="letter-spacing: 2px; text-align: center;"">
             <h4>Find Us</h4>
-            <a href="https://www.patreon.com/stephaniestrange"><img alt="Patreon" src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" /></a>
+            <a href="https://www.patreon.com/stephaniestrange"><img class="img-responsive" alt="Patreon" src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" /></a>
             </div>
           <social-buttons></social-buttons>
         </div>
