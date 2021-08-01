@@ -71,14 +71,12 @@ class Header extends HTMLElement {
 
     </style>
 
-    <div class="fixed-header">
+    <header>
       <div class="nav-container">
-        <header>
           <nav class="navbar navbar-expand-lg navbar-dark fixed-top">
 
             <a class="nav-brand" href="/index.html"><img id="header-logo" src="../assets/images/StephanieStrange_StephAndNina_Logo_Solid.png"></a>
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
-
               <ul class="navbar-nav nav-pills flex-column flex-sm-row">
 
                 <li class="nav-item">
@@ -98,7 +96,6 @@ class Header extends HTMLElement {
                 </li>
 
               </ul>
-
             </div>
 
             <div class="pos-f-t">
@@ -126,12 +123,12 @@ class Header extends HTMLElement {
                 </div>
               </div>
             </div>
-              <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggleExternalContent" aria-controls="navbarToggleExternalContent" aria-expanded="false" aria-label="Toggle navigation">
-                <span class="navbar-custom navbar-toggler-icon"></span>
-              </button>
-        </header>
-      </div>
-    </div>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggleExternalContent" aria-controls="navbarToggleExternalContent" aria-expanded="false" aria-label="Toggle navigation">
+              <span class="navbar-custom navbar-toggler-icon"></span>
+            </button>
+          </nav>
+        </div>
+      </header>
     `;
   }
 }

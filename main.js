@@ -1,3 +1,3 @@
-$(document).ready(function(){
-  $('.navbar-toggler').toggle();
-});
+// $(document).ready(function(){
+//   $('.navbar-toggler').toggle();
+// });
