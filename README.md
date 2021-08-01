@@ -8,7 +8,7 @@
 
 ## By Danielle Thompson
 
-<a href="https://github.com/danitcodes"> ![GitHub followers](https://img.shields.io/github/followers/danitcodes?style=social)	</a> <a href="https://linkedin.com/in/danielle-thompson74"> <img src="https://img.shields.io/badge/-LinkedIn-black.svg?style=plastic&logo=linkedin&colorB=2867B2"></a>
+<a href="https://github.com/danitcodes"> ![GitHub followers](https://img.shields.io/github/followers/danitcodes?style=social) </a> <a href="https://linkedin.com/in/danielle-thompson74"> <img src="https://img.shields.io/badge/-LinkedIn-black.svg?style=plastic&logo=linkedin&colorB=2867B2"></a>
 
 ### Project initiated 4.2021. ![GitHub last commit](https://img.shields.io/github/last-commit/danitcodes/strange-and-the-familiars)
 
@@ -25,6 +25,7 @@ Prep work and hi-fi page building for Portland's Strange and the Familiars profe
 As a user, I should be able to ...
 
 (tangibles)
+
 - Navigate to the home page and be inundated with gorgeous visual graphics the help to tell Stephanie Strange's stories. This "hero" image will alternate beetween a summer and winter photo.
 - Listen to music embedded on the page of the band's.
 - Contact the band for bookings and hellos.
@@ -40,6 +41,7 @@ As a user, I should be able to ...
 - Connect to all the social media accounts.
 
 (intangibles)
+
 - Connect with Stephanie Strange and band through art and stories.
 - Feel at least a little less alone in the world.
 - Connect to the authenticity of the Strange experience.
@@ -75,23 +77,18 @@ As a user, I should be able to ...
 - Need to make `<h1>` on home page reduce font size after 700px break and move position to bottom-right or -center so Stephanie's face does not get covered in mobile versions.
 - Double check all box-shadow/text-shadow, etc styles have -moz and -webflow settings included.
 - _Improved 6.2021 but still WIP:_ Fix home page card responsivity.
+
   - Images do not stay centered.
   - Cards should not decrease in width.
   - Row should wrap to one column as soon as the first card shifts out of the line.
-- Nav bar Bootstrap hamburger menu displays without being in reduced viewport on music, shows, merch, stories, and bookings pages, creating a duplicate nav bar.
+
 - Want nav bar links to be centered in normal viewports.
 - Social buttons icons in footer are not perfectly aligned.
-- About page has a weird white mark in top left corner that I cannot yet trace. (see below)
-![White mark bug on About page](assets/images/BugOnAboutPg.png)
 - Contact page columns aren't correctly aligned - words overlap onto image.
 - Contact page image isn't responsive.
 - Music page columns are responsive, but not correctly - YouTube embeds don't resize and words in columns shift over the top of the videos. Should stack columns on top of on another.
 - Embeds (YouTube & Spotify) on Music page aren't centered in their columns. Should center vertically and horizontally.
 - Need to get page URLs w/o .html ending. (Keep digging into .htaccess file useage.)
-
-### Color Scheme
-
-- Ivory: #FFFEF2
 
 ### Font
 
@@ -102,20 +99,20 @@ As a user, I should be able to ...
 - .htaccess file stuff - includes HTTP to HTTPS for SSL certification stuff [here](https://support.hostway.com/hc/en-us/articles/115000678970-How-to-create-an-htaccess-file-and-what-it-can-be-used-for-)
 - Also, Ultimate Htaccess [guide](https://www.askapache.com/htaccess/)
 - How to use Bootstrap in WordPress [here](https://www.bluehost.com/blog/how-to-use-bootstrap-in-wordpress-a-helpful-guide-bluehost/#:~:text=Although%20the%20Bootstrap%20framework%20was,to%20the%20WordPress%20core%20code.)
-- ** Transferring an existing domain name to Wordpress [here](https://wordpress.com/support/domains/map-existing-domain/)
-- ** Developing a Wordpress theme from scratch [here](https://www.taniarascia.com/developing-a-wordpress-theme-from-scratch/#installing-wordpress)
-- ** Reusable html components [here](https://www.freecodecamp.org/news/reusable-html-components-how-to-reuse-a-header-and-footer-on-a-website/)
+- \*\* Transferring an existing domain name to Wordpress [here](https://wordpress.com/support/domains/map-existing-domain/)
+- \*\* Developing a Wordpress theme from scratch [here](https://www.taniarascia.com/developing-a-wordpress-theme-from-scratch/#installing-wordpress)
+- \*\* Reusable html components [here](https://www.freecodecamp.org/news/reusable-html-components-how-to-reuse-a-header-and-footer-on-a-website/)
 - WordPress Coding Standards [here](https://developer.wordpress.org/coding-standards/)
 - ~~WordPress and React [here](https://www.freecodecamp.org/news/wordpress-react-how-to-create-a-modern-web-app-using-wordpress-ef6cc6be0cd0/#:~:text=If%20you%20want%20to%20create,CMS%20like%20WordPress%2C%20you%20can!)~~
 - ~~React inside WordPress [here](https://dev.to/bobman38/how-to-use-react-inside-a-wordpress-application-49i)~~
 
-___
+---
 
 <div align="center">
 
 ### Legal, or License
 
 This software is licensed under the [![GitHub](https://img.shields.io/github/license/danitcodes/strange-and-the-familiars)](https://choosealicense.com/licenses/mit/).<br/>
-Copyright (c) 2021 *_Danielle Thompson_*
+Copyright (c) 2021 _*Danielle Thompson*_
 
 </div>
