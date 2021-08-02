@@ -129,15 +129,11 @@ p {
 
 #bio-box {
   margin: 0.25em 3em 0.25em 3em;
-  /* margin: 25px 300px 25px 300px; */
-  letter-spacing: 1px;
 }
 
 #about-box {
   margin: 0.5em 1.5em 1.5em 1em;
-  /* margin: 50px 150px 150px 100px; */
   text-align: center;
-  letter-spacing: 1px;
   border-radius: 20%;
 }
 
