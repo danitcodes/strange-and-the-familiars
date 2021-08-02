@@ -2,7 +2,7 @@
 
 # Strange and the Familiars
 
-## A Website Redesign for Local Portland Band
+## A Website Redesign for a Local Portland Band
 
 <img src="./assets/images/SplashPage.png" alt="A splash page screenshot of Stephanie Strange in a red dress crouched over snow in front of snow-covered trees" height="400px" width="auto">
 
@@ -18,7 +18,7 @@
 
 ## Description
 
-Prep work and hi-fi page building for Portland's Strange and the Familiars professional band website. Live site coming soon. View development live site [here](https://strange-and-the-familiars.vercel.app/) before the redesign hits production.
+Phase one of new website, and hi-fi page building for Portland's Strange and the Familiars professional band website. Live site coming soon. View development site [here](https://strange-and-the-familiars.vercel.app/).
 
 ### User Stories
 
@@ -51,16 +51,14 @@ As a user, I should be able to ...
 ### Technology Used
 
 - VS Code
-- WordPress
-- BlueHost
-- Git
-- npm v.7.5.2
+- BlueHost & Vercel for domain & site hosting
+- Git & GitHub
 - Font Awesome v4.7.0 & v5.3.0
 - Bootstrap v4.3.1
 - jQuery v3.6.0
 - Google Fonts
 - Favicon
-- HTML5, reusable components with vanilla HTML
+- HTML5, reusable components with vanilla HTML/CSS/JS
 - CSS3
 - ES6 JavaScript
 - [Markdown badges](https://github.com/Ileriayo/markdown-badges)
@@ -69,26 +67,28 @@ As a user, I should be able to ...
 
 [Report bugs here.](https://github.com/danitcodes/strange-and-the-familiars/issues) | [Request features here.](https://github.com/danitcodes/strange-and-the-familiars/issues)
 
+_Urgent_
+
 - Footer is not yet appropriately responsive on smaller screens - scrunches all columns together currently.
   - Want "Find Us" to go above Logo.
   - Want Navigate to go into two columns with "Merch" link centered below both columns.
   - Want Logo, footer header, & copyright last on the page.
-- Need to compress all images for speed and convert all to svg.
-- Need to make `<h1>` on home page reduce font size after 700px break and move position to bottom-right or -center so Stephanie's face does not get covered in mobile versions.
-- Double check all box-shadow/text-shadow, etc styles have -moz and -webflow settings included.
-- _Improved 6.2021 but still WIP:_ Fix home page card responsivity.
+- Music page columns are responsive, but not correctly - YouTube embeds don't resize and words in columns shift over the top of the videos. Should stack columns on top of on another.
+- About page elements do not stack on top of one another in mobile view.
+- Shows page image and embed do not stack on top of one another in mobile view.
+- ~~[FYI - Home and Contact stack appropriately]~~
 
-  - Images do not stay centered.
-  - Cards should not decrease in width.
-  - Row should wrap to one column as soon as the first card shifts out of the line.
+_Medium_
+
+- Add mp4 video.
+
+_Low Priority_
 
 - Want nav bar links to be centered in normal viewports.
 - Social buttons icons in footer are not perfectly aligned.
-- Contact page columns aren't correctly aligned - words overlap onto image.
-- Contact page image isn't responsive.
-- Music page columns are responsive, but not correctly - YouTube embeds don't resize and words in columns shift over the top of the videos. Should stack columns on top of on another.
-- Embeds (YouTube & Spotify) on Music page aren't centered in their columns. Should center vertically and horizontally.
-- Need to get page URLs w/o .html ending. (Keep digging into .htaccess file useage.)
+- Need to compress all images for speed and convert all to svg.
+- Wants Embeds on Music & Shows page to be centered vertically, too.
+- Need to get page URLs w/o .html ending. (Conversion to React + Next.js imminent.)
 
 ### Font
 
