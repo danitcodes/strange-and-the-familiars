@@ -139,7 +139,6 @@ p {
 
 .about-header {
   font-size: 20px;
-  font-weight: bold;
 }
 
 .steph-nina-header {
@@ -174,33 +173,6 @@ p {
 }
 
 /*****************/
-/* Shows Styles */
-/*****************/
-
-
-
-/*****************/
-/* Bookings Styles */
-/*****************/
-
-.album-holder {
-  padding-top: 0.75em;
-  padding-bottom: 0.5em;
-}
-
-#bookings-img {
-  float: left;
-  margin: 0.25em;
-}
-
-#bookings-collaborators {
-  padding: 0.5em;
-  margin-top: 1em;
-  margin-bottom: 1em;
-  text-align: center;
-}
-
-/*****************/
 /* Music Styles */
 /*****************/
 
@@ -223,4 +195,32 @@ iframe {
 .resp-container {
   position: relative;
   overflow: hidden;
+}
+
+/*****************/
+/* Shows Styles */
+/*****************/
+
+
+
+/*****************/
+/* Bookings Styles */
+/*****************/
+
+.album-holder {
+  padding-top: 0.75em;
+  padding-bottom: 0.5em;
+}
+
+#bookings-img {
+  float: left;
+  margin: 0.25em;
+  align-items: center;
+}
+
+#bookings-collaborators {
+  padding: 0.5em;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  text-align: center;
 }
