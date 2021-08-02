@@ -190,22 +190,29 @@ p {
 }
 
 /*****************/
+/* Shows Styles */
+/*****************/
+
+
+
+/*****************/
 /* Bookings Styles */
 /*****************/
 
 .album-holder {
-  padding-top: 75px;
-  padding-bottom: 50px;
+  padding-top: 0.75em;
+  padding-bottom: 0.5em;
 }
 
 #bookings-img {
   float: left;
-  margin: 5px;
+  margin: 0.25em;
 }
 
 #bookings-collaborators {
-  padding: 25px;
-  margin-top: 50px;
+  padding: 0.5em;
+  margin-top: 1em;
+  margin-bottom: 1em;
   text-align: center;
 }
 
