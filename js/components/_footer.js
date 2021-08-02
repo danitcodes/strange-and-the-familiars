@@ -74,7 +74,7 @@ class Footer extends HTMLElement {
         </ul>
 
         <div style="padding-right: 40px; width: 300px;">
-          <div style="letter-spacing: 2px; text-align: center;"">
+          <div style="letter-spacing: 2px; text-align: center;">
             <h4 style="margin: 0.25em; padding: 0.25em;" >Find Us</h4>
             <a href="https://www.patreon.com/stephaniestrange"><img class="img-responsive" alt="Patreon" src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" /></a>
             </div>
