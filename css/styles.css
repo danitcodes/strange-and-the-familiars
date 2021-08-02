@@ -205,7 +205,8 @@ p {
 /*****************/
 
 .music-holder {
-  padding: 0px 100px;
+  margin: 3em;
+  padding: 0 2em;
 }
 
 .music-h4 {
