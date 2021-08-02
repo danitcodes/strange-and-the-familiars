@@ -128,12 +128,14 @@ p {
 /*****************/
 
 #bio-box {
-  margin: 25px 300px 25px 300px;
+  margin: 0.25em 3em 0.25em 3em;
+  /* margin: 25px 300px 25px 300px; */
   letter-spacing: 1px;
 }
 
 #about-box {
-  margin: 50px 150px 150px 100px;
+  margin: 0.5em 1.5em 1.5em 1em;
+  /* margin: 50px 150px 150px 100px; */
   text-align: center;
   letter-spacing: 1px;
   border-radius: 20%;
@@ -151,42 +153,28 @@ p {
 }
 
 .steph-nina-about-images {
-  padding-top: 20px;
-  padding-bottom: 20px;
+  padding-top: 0.325em;
+  padding-bottom: 0.325em;
+  margin-bottom: 1em;
   border-radius: 50%;
-  height: 250px;
-  width: 200px;
+  height: 20em;
+  width: 16em;
   -moz-box-shadow: 3px 3px 30px 5px gray;
   -webkit-box-shadow: 3px 3px 30px 5px gray;
   box-shadow: 3px 3px 30px 5px gray;
 }
 
-.row1-about-images {
-  margin-bottom: 20px;
-  margin-top: 100px;
-  padding-top: 20px;
-  padding-bottom: 20px;
+.row2-about-images {
+  margin-bottom: 1em;
+  margin-top: 1em;
+  padding-top: 0.25em;
+  padding-bottom: 0.25em;
   border-radius: 50%;
-  height: 200px;
-  width: 125px;
+  height: 16em;
+  width: 13em;
   -moz-box-shadow: 3px 3px 30px 5px gray;
   -webkit-box-shadow: 3px 3px 30px 5px gray;
   box-shadow: 3px 3px 30px 5px gray;
-}
-
-.row3-about-images {
-  margin-bottom: 20px;
-  margin-top: 50px;
-  border-radius: 50%;
-  height: 175px;
-  width: 125px;
-  -moz-box-shadow: 3px 3px 30px 5px gray;
-  -webkit-box-shadow: 3px 3px 30px 5px gray;
-  box-shadow: 3px 3px 30px 5px gray;
-}
-
-.row3 {
-  padding-bottom: 50px;
 }
 
 /*****************/
