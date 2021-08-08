@@ -90,6 +90,12 @@ _Low Priority_
 - Wants Embeds on Music & Shows page to be centered vertically, too.
 - Need to get page URLs w/o .html ending. (Conversion to React + Next.js imminent.)
 
+## Setting up the Code on Local Environment
+
+1. Clone the repository down to your local environment [here](https://github.com/danitcodes/strange-and-the-familiars.git).
+2. Open up the newly cloned repository in your code editor of choice - I use VS Code and it's Live Server extension to view the files in development.
+3. Right click on any of the html pages and select "Open with Live Server" in VS Code to navigate through the site.
+
 ### Font
 
 - IM Fell English
