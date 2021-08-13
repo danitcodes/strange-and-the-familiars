@@ -70,6 +70,7 @@ As a user, I should be able to ...
 _Medium_
 
 - Add mp4 video.
+- Spotify is throwing many an error on the music page in dev tools. [idea](https://www.keycdn.com/support/how-to-solve-err-blocked-by-client)
 
 _Low Priority_
 
