@@ -67,17 +67,6 @@ As a user, I should be able to ...
 
 [Report bugs here.](https://github.com/danitcodes/strange-and-the-familiars/issues) | [Request features here.](https://github.com/danitcodes/strange-and-the-familiars/issues)
 
-_Urgent_
-
-- Footer is not yet appropriately responsive on smaller screens - scrunches all columns together currently.
-  - Want "Find Us" to go above Logo.
-  - Want Navigate to go into two columns with "Merch" link centered below both columns.
-  - Want Logo, footer header, & copyright last on the page.
-- Music page columns are responsive, but not correctly - YouTube embeds don't resize and words in columns shift over the top of the videos. Should stack columns on top of on another.
-- About page elements do not stack on top of one another in mobile view.
-- Shows page image and embed do not stack on top of one another in mobile view.
-- ~~[FYI - Home and Contact stack appropriately]~~
-
 _Medium_
 
 - Add mp4 video.
