@@ -7,15 +7,19 @@ class Footer extends HTMLElement {
     this.innerHTML = `
       <style>
         footer {
-          height: 300px;
           margin: 75px 30px 30px 30px;
-          padding: 0 10px;
+          padding: 35px;
           list-style: none;
           display: flex;
           justify-content: space-between;
           align-items: center;
           background-color: black;
         }
+
+        footer ul {
+          padding-left: 0;
+          text-align: center;
+      }
 
         ul li {
           list-style: none;
@@ -49,6 +53,14 @@ class Footer extends HTMLElement {
 
         .nav-bar-menu {
           display: block;
+          margin:10px;
+        }
+
+        @media only screen and (max-width:768px){
+          footer{
+            flex-direction: column;
+            gap: 30px;
+          }
         }
       </style>
 
@@ -73,7 +85,7 @@ class Footer extends HTMLElement {
           <li class="nav-bar-menu"><a href="pages/contact.html">Contact</a></li>
         </ul>
 
-        <div style="padding-right: 40px; width: 300px;">
+        <div style=" width: 300px;">
           <div style="letter-spacing: 2px; text-align: center;">
             <h4 style="margin: 0.25em; padding: 0.25em;" >Find Us</h4>
             <a href="https://www.patreon.com/stephaniestrange"><img class="img-responsive" alt="Patreon" src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" /></a>

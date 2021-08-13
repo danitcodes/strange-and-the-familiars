@@ -33,6 +33,7 @@ class SocialButtons extends HTMLElement {
               <i class="fa fa-youtube" aria-hidden="true"></i>
             </a>
           </li>
+          <br>
           <li>
             <a target="_blank" href="https://open.spotify.com/artist/3omd0Z9AIkQDps5TRNphRH">
               <i class="fa fa-spotify" aria-hidden="true"></i>

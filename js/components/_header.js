@@ -8,8 +8,7 @@ class Header extends HTMLElement {
       <style>
       body {
         padding-top: 60px;
-        padding-bottom: 40px;
-      }
+            }
 
       .fixed-header {
         position: sticky;
