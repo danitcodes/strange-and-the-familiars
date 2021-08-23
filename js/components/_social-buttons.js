@@ -14,6 +14,11 @@ class SocialButtons extends HTMLElement {
       <div class="social-buttons">
         <ul class="social">
           <li>
+            <a target="_blank" href="https://li.sten.to/8aAP7UD">
+              <i class="fa fa-tree" aria-hidden="true"></i>
+            </a>
+          </li>
+          <li>
             <a target="_blank" href="https://www.facebook.com/strangeandthefamiliars">
               <i class="fa fa-facebook" aria-hidden="true"></i>
             </a>
@@ -42,11 +47,6 @@ class SocialButtons extends HTMLElement {
           <li>
             <a target="_blank" href="https://strangeandthefamiliars.bandcamp.com/">
               <i class="fa fa-bandcamp" aria-hidden="true"></i>
-            </a>
-          </li>
-          <li>
-            <a target="_blank" href="https://www.flickr.com/photos/136189457@N06">
-              <i class="fa fa-flickr" aria-hidden="true"></i>
             </a>
           </li>
           <li>
