@@ -56,7 +56,7 @@ p {
 
 .hero-image {
   /* linear-gradient adds a darken background effect to img to make text easier to read*/
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.25)), url("../assets/images/StephInRedDressOnSnow.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.25)), url("../assets/images/Pie-3.png");
   height: 100vh;
   background-position: center;
   background-repeat: no-repeat;
@@ -65,8 +65,10 @@ p {
 }
 
 .hero-text {
-  text-align: right;
-  transform: translate(-10%, 10%);
+  transform: translate(10%)
+  /********use for RedDress img*********/
+  /* text-align: right; */
+  /* transform: translate(-10%, 10%); */
 }
 
 /*****************/
