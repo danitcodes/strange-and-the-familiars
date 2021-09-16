@@ -7,14 +7,14 @@ class SocialButtons extends HTMLElement {
     this.innerHTML = `
       <style>
         .social-buttons {
-
+          
         }
       </style>
 
       <div class="social-buttons">
         <ul class="social">
           <li>
-            <a target="_blank" href="https://li.sten.to/8aAP7UD">
+            <a target="_blank" href="https://li.sten.to/LXRnoqC">
               <i class="fa fa-tree" aria-hidden="true"></i>
             </a>
           </li>
