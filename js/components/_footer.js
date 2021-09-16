@@ -78,11 +78,11 @@ class Footer extends HTMLElement {
         </ul>
 
         <ul style="text-align: center;">
-          <li class="nav-bar-menu"><a href="pages/about.html">About</a></li>
-          <li class="nav-bar-menu"><a href="pages/music.html">Music</a></li>
-          <li class="nav-bar-menu"><a href="pages/shows.html">Shows</a></li>
-          <li class="nav-bar-menu"><a href="pages/shop.html">Shop</a></li>
-          <li class="nav-bar-menu"><a href="pages/contact.html">Contact</a></li>
+          <li class="nav-bar-menu"><a href="about.html">About</a></li>
+          <li class="nav-bar-menu"><a href="music.html">Music</a></li>
+          <li class="nav-bar-menu"><a href="shows.html">Shows</a></li>
+          <li class="nav-bar-menu"><a href="shop.html">Shop</a></li>
+          <li class="nav-bar-menu"><a href="contact.html">Contact</a></li>
         </ul>
 
         <div style=" width: 300px;">
