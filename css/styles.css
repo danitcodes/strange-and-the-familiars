@@ -56,24 +56,29 @@ p {
 
 .hero-image {
   /* linear-gradient adds a darken background effect to img to make text easier to read*/
-  background-image: linear-gradient(rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.25)), url("../assets/images/StrangeForest.jpg");
+  background-image:
+    linear-gradient(rgba(0, 0, 0, 0.25),
+    rgba(0, 0, 0, 0.25)),
+    url("../assets/images/StrangeForest.jpg");
   height: 100vh;
   background-position: center;
   background-repeat: no-repeat;
-  background-size: 80%;
-  /* ^^ needed to change background-size to 80% from 'center' for StrangeForest
+  background-size: 85%;
+  /* ^^ needed to change background-size to 100% from 'center' for StrangeForest
   splash - Steph's head was getting cut off otherwise in my large screens */
   position: relative;
 }
 
 .hero-text {
   text-align: right;
-  transform: translate(-15%, 10%);
+  transform: translate(-10%, 10%);
 }
 
 .hero-banner {
-  transform: translate(20%, 80%);
+  transform: translate(10%, 80%);
   letter-spacing: 3px;
+  color: #a50000;
+  font-size: 5vh;
 }
 
 /*****************/
