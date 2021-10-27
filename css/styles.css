@@ -74,12 +74,11 @@ p {
   transform: translate(-10%, 10%);
 }
 
-.hero-banner {
-  transform: translate(10%, 0%);
-  letter-spacing: 3px;
+.splash-banner {
+  margin-top: 20px;
   color: #a50000;
-  font-size: 5vh;
-  text-shadow: 2px 2px 5px;
+  font-size: 3vh;
+  letter-spacing: 3px;
 }
 
 /*****************/
