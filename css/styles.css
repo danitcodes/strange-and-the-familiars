@@ -71,7 +71,7 @@ p {
 
 .hero-text {
   text-align: right;
-  transform: translate(-10%, 10%);
+  transform: translate(-10%, 0%);
 }
 
 .splash-banner {
