@@ -81,6 +81,27 @@ p {
   letter-spacing: 3px;
 }
 
+#home-about {
+  padding: 50px;
+  margin-top: 60px;
+}
+
+.home-header {
+  padding: 0.5em;
+  margin-left: 1.5em;
+  margin-right: 3em;
+  letter-spacing: 3px;
+  text-shadow: 3px 3px 3px gray;
+}
+
+.home-p {
+  padding: 0.5em;
+  margin-left: 3em;
+  margin-right: 3em;
+  font-size: large;
+  letter-spacing: 1px;
+}
+
 /*****************/
 /* Landing page cards */
 /*****************/
@@ -109,11 +130,6 @@ p {
 .card-img-top {
   height: 200px;
   width: auto;
-}
-
-.card-btn-style {
-  letter-spacing: 3px;
-  width: 50px;
 }
 
 @media (min-width: 20em) {
