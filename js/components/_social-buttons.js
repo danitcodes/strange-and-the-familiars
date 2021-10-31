@@ -7,12 +7,12 @@ class SocialButtons extends HTMLElement {
     this.innerHTML = `
       <style>
         .social-buttons {
-          
+
         }
       </style>
 
       <div class="social-buttons">
-        <ul class="social">
+        <ul>
           <li>
             <a target="_blank" href="http://li.sten.to/hT0Uxlh">
               <i class="fa fa-tree" aria-hidden="true"></i>
@@ -33,12 +33,12 @@ class SocialButtons extends HTMLElement {
               <i class="fa fa-instagram" aria-hidden="true"></i>
             </a>
           </li>
+          <br>
           <li>
             <a target="_blank" href="https://www.youtube.com/channel/UCKlNadldWRyo4ARv-CKsebA">
               <i class="fa fa-youtube" aria-hidden="true"></i>
             </a>
           </li>
-          <br>
           <li>
             <a target="_blank" href="https://open.spotify.com/artist/3omd0Z9AIkQDps5TRNphRH">
               <i class="fa fa-spotify" aria-hidden="true"></i>
