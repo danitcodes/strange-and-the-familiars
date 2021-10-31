@@ -14,7 +14,7 @@ class SocialButtons extends HTMLElement {
       <div class="social-buttons">
         <ul class="social">
           <li>
-            <a target="_blank" href="https://li.sten.to/LXRnoqC">
+            <a target="_blank" href="http://li.sten.to/hT0Uxlh">
               <i class="fa fa-tree" aria-hidden="true"></i>
             </a>
           </li>
