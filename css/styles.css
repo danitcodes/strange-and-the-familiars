@@ -208,6 +208,12 @@ p {
   box-shadow: 3px 3px 30px 5px gray;
 }
 
+#about-section-break {
+  padding-bottom: 2em;
+  border-bottom: 1px solid white;
+  margin: 3em;
+}
+
 /*****************/
 /* Music Styles */
 /*****************/
@@ -240,7 +246,7 @@ iframe {
 
 
 /*****************/
-/* Bookings Styles */
+/* Contact Styles */
 /*****************/
 
 .album-holder {
@@ -259,4 +265,24 @@ iframe {
   margin-top: 1em;
   margin-bottom: 1em;
   text-align: center;
+}
+
+.contact-h2 {
+  text-align: center;
+  padding-top: 0.75em;
+  padding-bottom: 0.25em;
+  text-shadow: 3px 3px 3px gray;
+  letter-spacing: 2px;
+}
+
+.contact-h3 {
+  text-align: center;
+  text-decoration: underline;
+  letter-spacing: 2px;
+}
+
+.contact-p {
+  text-align: center;
+  padding-top: 0.25em;
+  padding-bottom: 0.25em;
 }
