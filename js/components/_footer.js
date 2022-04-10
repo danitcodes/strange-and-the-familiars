@@ -5,64 +5,7 @@ class Footer extends HTMLElement {
 
   connectedCallback() {
     this.innerHTML = `
-      <style>
-        footer {
-          margin: 75px 30px 30px 30px;
-          padding: 35px;
-          list-style: none;
-          display: flex;
-          justify-content: space-between;
-          align-items: center;
-          background-color: black;
-        }
-
-        footer ul {
-          padding-left: 0;
-          text-align: center;
-      }
-
-        ul li {
-          list-style: none;
-          display: inline;
-        }
-
-        a {
-          margin: 0 15px;
-          color: inherit;
-          text-decoration: none;
-        }
-
-        a:hover {
-          padding-bottom: 5px;
-          box-shadow: inset 0 -2px 0 0 #333;
-        }
-
-        .social-row {
-          font-size: 20px;
-        }
-
-        .social-row li a {
-          margin: 0 15px;
-        }
-
-        .footer-img {
-          height: 150px;
-          width: auto;
-          padding-bottom: 10px;
-        }
-
-        .nav-bar-menu {
-          display: block;
-          margin:10px;
-        }
-
-        @media only screen and (max-width:768px){
-          footer{
-            flex-direction: column;
-            gap: 30px;
-          }
-        }
-      </style>
+      <link rel="stylesheet" type="text/css" href="../../css/shared/components/footer.css" media="all">
 
       <footer class="footer bg-dark">
         <ul>
