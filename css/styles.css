@@ -269,6 +269,7 @@ iframe {
 /*****************/
 
 .album-holder {
+  margin: 1.5em;
   padding-top: 0.75em;
   padding-bottom: 0.5em;
 }
@@ -297,6 +298,7 @@ iframe {
 .contact-h3 {
   text-align: center;
   text-decoration: underline;
+  text-shadow: 3px 3px 3px gray;
   letter-spacing: 2px;
 }
 
