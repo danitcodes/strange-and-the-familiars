@@ -116,6 +116,7 @@ p {
   -moz-box-shadow: 2px 3px 10px 5px gray;
   -webkit-box-shadow: 2px 3px 10px 5px gray;
   box-shadow: 2px 3px 10px 5px gray;
+  align-items: stretch;
 }
 
 .card-title {
@@ -232,6 +233,23 @@ p {
 iframe {
   display: block;
   margin: 0 auto;
+}
+
+.iframe-wrapper {
+  position: relative;
+  padding-bottom: 56.10%;
+  height: 0;
+  overflow: hidden;
+}
+
+.iframe-wrapper iframe,
+.iframe-wrapper object,
+.iframe-wrapper embed {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
 }
 
 .resp-container {
