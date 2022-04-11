@@ -1,0 +1,54 @@
+/*****************/
+/* About Styles */
+/*****************/
+
+#bio-box {
+  margin: 0.25em 3em 0.25em 3em;
+}
+
+#about-box {
+  margin: 0.5em 1.5em 1.5em 1em;
+  text-align: center;
+  border-radius: 20%;
+}
+
+.about-header {
+  font-size: 20px;
+}
+
+.steph-nina-header {
+  font-size: 25px;
+  font-weight: bold;
+  letter-spacing: 2px;
+}
+
+.steph-nina-about-images {
+  padding-top: 0.325em;
+  padding-bottom: 0.325em;
+  margin-bottom: 1em;
+  border-radius: 50%;
+  height: 20em;
+  width: 16em;
+  -moz-box-shadow: 3px 3px 30px 5px gray;
+  -webkit-box-shadow: 3px 3px 30px 5px gray;
+  box-shadow: 3px 3px 30px 5px gray;
+}
+
+.row2-about-images {
+  margin-bottom: 1em;
+  margin-top: 1em;
+  padding-top: 0.25em;
+  padding-bottom: 0.25em;
+  border-radius: 50%;
+  height: 16em;
+  width: 13em;
+  -moz-box-shadow: 3px 3px 30px 5px gray;
+  -webkit-box-shadow: 3px 3px 30px 5px gray;
+  box-shadow: 3px 3px 30px 5px gray;
+}
+
+#about-section-break {
+  padding-bottom: 2em;
+  border-bottom: 1px solid white;
+  margin: 3em;
+}

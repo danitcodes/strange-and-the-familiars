@@ -1,0 +1,115 @@
+/*****************/
+/* Landing page styles */
+/*****************/
+
+.header {
+  padding-top: 25vh;
+  letter-spacing: 5px;
+  font-size: 60px;
+}
+
+.hero-image {
+  /* linear-gradient adds a darken background effect to img to make text easier to read*/
+  background-image:
+    linear-gradient(rgba(0, 0, 0, 0.25),
+    rgba(0, 0, 0, 0.25)),
+    url("../../../images/StrangeForest.jpg");
+  height: 100vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 85%;
+  /* ^^ needed to change background-size to 100% from 'center' for StrangeForest
+  splash - Steph's head was getting cut off otherwise in my large screens */
+  position: relative;
+}
+
+.hero-text {
+  text-align: right;
+  transform: translate(-10%, 0%);
+}
+
+.splash-banner {
+  margin-top: 20px;
+  color: var(--red);
+  font-size: 3vh;
+  letter-spacing: 3px;
+}
+
+#home-about {
+  padding: 50px;
+  margin-top: 60px;
+}
+
+.home-header {
+  padding: 0.5em;
+  margin-left: 1.5em;
+  margin-right: 3em;
+  letter-spacing: 3px;
+  text-shadow: 3px 3px 3px gray;
+}
+
+.home-p {
+  padding: 0.5em;
+  margin-left: 3em;
+  margin-right: 3em;
+  font-size: large;
+  letter-spacing: 1px;
+}
+
+/*****************/
+/* Landing page cards */
+/*****************/
+
+.card {
+  flex-wrap: wrap;
+  margin-top: 75px;
+  margin-bottom: 100px;
+  padding: 15px 10px 20px 10px;
+  border-radius: 50px 20px 50px 5px;
+  background-color: white;
+  -moz-box-shadow: 2px 3px 10px 5px gray;
+  -webkit-box-shadow: 2px 3px 10px 5px gray;
+  box-shadow: 2px 3px 10px 5px gray;
+  align-items: stretch;
+}
+
+.card-title {
+  padding-top: 25px;
+}
+
+.card-body {
+  text-align: center;
+  color: black;
+}
+
+.card-img-top {
+  height: 200px;
+  width: auto;
+}
+
+@media (min-width: 20em) {
+  .card-columns {
+    -webkit-column-count: 1;
+    -moz-column-count: 1;
+    column-count: 1;
+    column-gap: 1.25rem;
+    orphans: 1;
+    widows: 1;
+  }
+}
+
+@media (min-width: 34em) {
+  .card-columns {
+    -webkit-column-count: 2;
+    -moz-column-count: 2;
+    column-count: 2;
+  }
+}
+
+@media (min-width: 48em) {
+  .card-columns {
+    -webkit-column-count: 3;
+    -moz-column-count: 3;
+    column-count: 3;
+  }
+}

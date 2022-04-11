@@ -1,0 +1,43 @@
+/*****************/
+/* Contact Styles */
+/*****************/
+
+.album-holder {
+  margin: 1.5em;
+  padding-top: 0.75em;
+  padding-bottom: 0.5em;
+}
+
+#bookings-img {
+  float: left;
+  margin: 0.25em;
+  align-items: center;
+}
+
+#bookings-collaborators {
+  padding: 0.5em;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  text-align: center;
+}
+
+.contact-h2 {
+  text-align: center;
+  padding-top: 0.75em;
+  padding-bottom: 0.25em;
+  text-shadow: 3px 3px 3px gray;
+  letter-spacing: 2px;
+}
+
+.contact-h3 {
+  text-align: center;
+  text-decoration: underline;
+  text-shadow: 3px 3px 3px gray;
+  letter-spacing: 2px;
+}
+
+.contact-p {
+  text-align: center;
+  padding-top: 0.25em;
+  padding-bottom: 0.25em;
+}
