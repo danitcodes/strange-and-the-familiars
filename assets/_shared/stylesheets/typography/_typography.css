@@ -1,0 +1,33 @@
+/*********************/
+/* Shared Typography */
+/*********************/
+
+* {
+  margin: 0;
+  font-family: var(--font-family);
+}
+
+body,
+html {
+  /* height: 100%; */
+  background-color: black;
+  color: var(--soft-white);
+}
+
+.h2-custom {
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  padding-top: 50px;
+  text-shadow: 3px 3px 3px gray;
+}
+
+p,
+a {
+  font-size: large;
+  letter-spacing: 1px;
+}
+
+cite {
+  font-style: normal;
+}
