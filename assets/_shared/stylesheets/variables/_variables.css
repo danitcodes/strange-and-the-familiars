@@ -1,0 +1,29 @@
+/*----------------------------------------------------------------------------
+ *
+ * Shared Variables
+ *
+ *---------------------------------------------------------------------------*/
+
+/*
+  Colors
+*/
+
+@import 'shared/stylesheets/variables/_colors';
+
+/*
+  Fonts
+*/
+
+:root {
+  --font-family: 'IM Fell English', serif;
+}
+
+:root {
+  --alpha:   2.027rem;
+  --beta:    1.802rem;
+  --gamma:   1.602rem;
+  --delta:   1.424rem;
+  --epsilon: 1.266rem;
+  --zeta:    1.125rem;
+  --base:    1rem;
+}
