@@ -5,7 +5,7 @@ class Footer extends HTMLElement {
 
   connectedCallback() {
     this.innerHTML = `
-      <link rel="stylesheet" type="text/css" href="../../css/shared/components/footer.css" media="all">
+      <link rel="stylesheet" type="text/css" href="../../assets/_shared/stylesheets/components/footer.css" media="all">
 
       <footer class="footer bg-dark">
         <ul>

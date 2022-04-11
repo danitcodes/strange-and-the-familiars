@@ -5,7 +5,7 @@ class Header extends HTMLElement {
 
   connectedCallback() {
     this.innerHTML = `
-      <link rel="stylesheet" type="text/css" href="../../css/shared/components/header.css" media="all">
+      <link rel="stylesheet" type="text/css" href="../../assets/_shared/stylesheets/components/header.css" media="all">
 
       <header>
         <nav class="navbar navbar-expand-lg navbar-dark fixed-top">

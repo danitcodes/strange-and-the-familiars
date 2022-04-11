@@ -60,7 +60,7 @@ p {
   background-image:
     linear-gradient(rgba(0, 0, 0, 0.25),
     rgba(0, 0, 0, 0.25)),
-    url("../assets/images/StrangeForest.jpg");
+    url("../../images/StrangeForest.jpg");
   height: 100vh;
   background-position: center;
   background-repeat: no-repeat;
