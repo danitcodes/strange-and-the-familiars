@@ -25,9 +25,13 @@ html {
 p,
 a {
   font-size: large;
-  letter-spacing: 1px;
+  letter-spacing: 2px;
 }
 
 cite {
   font-style: normal;
+}
+
+.btn {
+  text-transform: uppercase;
 }
