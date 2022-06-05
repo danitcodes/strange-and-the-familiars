@@ -110,6 +110,6 @@ _Low Priority_
 ### Legal, or License
 
 This software is licensed under the [![GitHub](https://img.shields.io/github/license/danitcodes/strange-and-the-familiars)](https://choosealicense.com/licenses/mit/).<br/>
-Copyright (c) 2021 _*Danielle Thompson*_
+Copyright (c) 2022 _*Danielle Thompson*_
 
 </div>
