@@ -18,7 +18,7 @@
 
 ## Description
 
-Phase one of new website, and hi-fi page building for Portland's Strange and the Familiars professional band website. Live site coming soon. View development site [here](https://strange-and-the-familiars.vercel.app/).
+Local Portland band, Strange and the Familiars, professional website.
 
 ### User Stories
 
@@ -85,6 +85,7 @@ _Low Priority_
 1. Clone the repository down to your local environment [here](https://github.com/danitcodes/strange-and-the-familiars.git).
 2. Open up the newly cloned repository in your code editor of choice - I use VS Code and it's Live Server extension to view the files in development.
 3. Right click on any of the html pages and select "Open with Live Server" in VS Code to navigate through the site.
+4. View development site [here](https://strange-and-the-familiars.vercel.app/).
 
 ### Font
 
