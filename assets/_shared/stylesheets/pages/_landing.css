@@ -13,7 +13,7 @@
   background-image:
     linear-gradient(rgba(0, 0, 0, 0.25),
     rgba(0, 0, 0, 0.25)),
-    url("../../../images/StrangeForest.jpg");
+    url("../../../images/StephanieInARedDressInSnowyWood.jpg");
   height: 100vh;
   background-position: center;
   background-repeat: no-repeat;
@@ -31,7 +31,7 @@
 .splash-banner {
   margin-top: 20px;
   color: var(--red);
-  font-size: 3vh;
+  font-size: 4vh;
   letter-spacing: 3px;
 }
 
