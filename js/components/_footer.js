@@ -17,7 +17,7 @@ class Footer extends HTMLElement {
             </a>
           </li>
           <li class="nav-item"><h3>Strange & the Familiars</h3></li>
-          <li class="nav-item">©2021, Modern Potions Consulting.</li>
+          <li class="nav-item">©2025, Modern Potions Consulting.</li>
         </ul>
 
         <ul style="text-align: center;">
