@@ -29,10 +29,12 @@
 }
 
 .splash-banner {
+  text-align: center;
   margin-top: 20px;
   color: var(--red);
   font-size: 4vh;
   letter-spacing: 3px;
+  background-color: var(--black);
 }
 
 #home-about {
